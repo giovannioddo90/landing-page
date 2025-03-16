@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: #1f2937;
+    color: #F9FAF8;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-text {
+    display: flex;
+    gap: 20px;
+}
