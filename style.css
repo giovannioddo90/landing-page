@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+button {
+    max-width: fit-content;
+}
 .header {
     background: #1f2937;
     color: #F9FAF8;
@@ -14,4 +17,15 @@
 .header-text {
     display: flex;
     gap: 20px;
+}
+
+.text-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.hero-text {
+    display: flex;
+    flex-direction: column;
 }
