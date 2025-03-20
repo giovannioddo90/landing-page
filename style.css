@@ -62,32 +62,3 @@ img {
     color: #E5E7Eb;
     font-size: 18;
 }
-
-/***********************************************/
-
-.four-containers {
-    display: flex;
-    border: 5px solid blue;
-    flex-direction: column;
-
-}
-
-.container-text {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 36px;
-    color: #1f2937;
-    font-weight: 900;   
-    padding: 50px; 
-}
-
-.boxes {
-    border: 5px solid #3882F6;
-    background-color: white;
-    display: flex;
-    justify-content: space-evenly;
-    padding: 100px;
-
-}
-
